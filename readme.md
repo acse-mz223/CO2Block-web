@@ -21,8 +21,8 @@ The default web page that provides a comprehensive overview of the CO2Block mode
 - Links to relevant academic papers
 
 **Images:**
-- ![Hero Image](./figures/1.png) _Hero section of the about page_
-- ![Animation](https://github.com/your-username/your-repository-name/blob/master/images/animation.gif) _Interactive animations demonstrating model scenarios_
+ ![Hero Image](./figures/1.png) 
+ ![Animation](./figures/2.png)
 
 ### Interface 2: Data Distribution Map
 This interface offers a visual representation of recorded basins globally with features like:
@@ -31,8 +31,8 @@ This interface offers a visual representation of recorded basins globally with f
 - Storage capacity under 13 scenarios across two time spans
 
 **Images:**
-- ![Hover Effect](https://github.com/your-username/your-repository-name/blob/master/images/hover.jpg) _Basin highlighting on hover_
-- ![Basin Block](https://github.com/your-username/your-repository-name/blob/master/images/block.jpg) _Basin information block_
+- ![Hover Effect](./figures/3.png)
+- ![Basin Block](./figures/4.png)
 
 ### Interface 3: Regional Analysis
 Provides forecasts of CO2 storage contributions by different global regions through:
@@ -40,8 +40,8 @@ Provides forecasts of CO2 storage contributions by different global regions thro
 - Pie charts for comparing the contribution of each region within a scenario
 
 **Images:**
-- ![Bar Chart](https://github.com/your-username/your-repository-name/blob/master/images/barchart.jpg) _Bar chart showing storage by region_
-- ![Pie Chart](https://github.com/your-username/your-repository-name/blob/master/images/piechart.jpg) _Pie chart comparing regions within a scenario_
+- ![Bar Chart](./figures/5.png)
+- ![Pie Chart](./figures/6.png)
 
 ### Interface 4: Global CO2 Storage Map
 Visualizes CO2 storage capacity in basins worldwide with features like:
@@ -50,5 +50,5 @@ Visualizes CO2 storage capacity in basins worldwide with features like:
 - Filters for viewing data by country or scenario
 
 **Images:**
-- ![Map without Basins](https://github.com/your-username/your-repository-name/blob/master/images/map_no_basin.jpg) _Map view without basins highlighted_
-- ![Map with Basins](https://github.com/your-username/your-repository-name/blob/master/images/map_with_basin.jpg) _Map view with basins and details highlighted_
+- ![Map without Basins](./figures/7.png)
+- ![Map with Basins](./figures/8.png)
