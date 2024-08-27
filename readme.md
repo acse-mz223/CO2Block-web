@@ -24,8 +24,8 @@ Technologies:
 - CSS style, Gsap
 
 **Images:**
- ![Hero Image](./figures/1.png) 
- ![Animation](./figures/2.png)
+- ![Hero Image](./figures/1.png) 
+- ![Animation](./figures/2.png)
 
 ### Interface 2: Data Distribution Map
 This interface offers a visual representation of recorded basins globally with features like:
