@@ -19,6 +19,7 @@ The default web page that provides a comprehensive overview of the CO2Block mode
 - Introduction to the model
 - Analyses of different CO2 storage scenarios worldwide
 - Links to relevant academic papers
+  
 Technologies:
 - CSS style, Gsap
 
@@ -31,6 +32,7 @@ This interface offers a visual representation of recorded basins globally with f
 - Highlighting on hover
 - Detailed geological information on double-click (including the country, coordinates, area, and number of wells)
 - Storage capacity under 13 scenarios across two time spans
+  
 Technologies:
 - Leaflet, chart.js
 
@@ -42,6 +44,7 @@ Technologies:
 Provides forecasts of CO2 storage contributions by different global regions through:
 - Bar charts for clear visualization of storage by scenario
 - Pie charts for comparing the contribution of each region within a scenario
+  
 Technologies:
 - chart.js
 
@@ -54,6 +57,7 @@ Visualizes CO2 storage capacity in basins worldwide with features like:
 - Interactive maps showing storage capacity under different scenarios
 - Color-coded markers indicating limiting factors (pressure or number of injection sites)
 - Filters for viewing data by country or scenario
+  
 Technologies:
 - Leaflet
 
