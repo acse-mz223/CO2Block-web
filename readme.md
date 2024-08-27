@@ -21,7 +21,7 @@ The default web page that provides a comprehensive overview of the CO2Block mode
 - Links to relevant academic papers
 
 **Images:**
-- ![Hero Image](https://github.com/your-username/your-repository-name/blob/master/images/hero.jpg) _Hero section of the about page_
+- ![Hero Image](./figures/1.png) _Hero section of the about page_
 - ![Animation](https://github.com/your-username/your-repository-name/blob/master/images/animation.gif) _Interactive animations demonstrating model scenarios_
 
 ### Interface 2: Data Distribution Map
