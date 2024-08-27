@@ -8,8 +8,11 @@ CO2Block is a sophisticated web-based simulator that utilizes the CO2Block model
 - **Front-end:** React, HTML, CSS, Chart.js, leaflet, GSAP, Figma
 - **Back-end:** Node.js
 
-## prototype
+## Prototype
 link: https://www.figma.com/proto/RVsZLQby6bOhi8ZniW7PbA/IRP?node-id=0-1&t=SUQge6J1XmcAdKpI-1
+
+## Code
+link: https://github.com/acse-mz223/my_irp
 
 ## Interfaces
 The application features three main parts with seven distinct interfaces, each offering different perspectives on the data calculated by the CO2Block model. Here are the four examples.
