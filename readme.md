@@ -12,7 +12,7 @@ CO2Block is a sophisticated web-based simulator that utilizes the CO2Block model
 link: https://www.figma.com/proto/RVsZLQby6bOhi8ZniW7PbA/IRP?node-id=0-1&t=SUQge6J1XmcAdKpI-1
 
 ## Interfaces
-The application features three main parts with seven distinct interfaces, each offering different perspectives on the data calculated by the CO2Block model.
+The application features three main parts with seven distinct interfaces, each offering different perspectives on the data calculated by the CO2Block model. Here are the four examples.
 
 ### Interface 1: About
 The default web page that provides a comprehensive overview of the CO2Block model, including:
