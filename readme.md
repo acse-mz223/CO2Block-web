@@ -5,7 +5,7 @@
 CO2Block is a sophisticated web-based simulator that utilizes the CO2Block model to analyze CO2 storage scalability globally. The platform is built with React, employing HTML and CSS for the front-end, and Node.js for back-end integration, enabling real-time data processing and a dynamic user experience.
 
 ### Technologies
-- **Front-end:** React, HTML, CSS, Chart.js, leaflet, GSAP, Figma
+- **Front-end:** React, HTML, CSS, Router, Chart.js, leaflet, GSAP, Figma
 - **Back-end:** Node.js
 
 ## Prototype
